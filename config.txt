@@ -1,6 +1,6 @@
 token= NTMxMDQ2NDc2Mjk4NTg0MDY0.DxIPPQ.JzBmQhLPyPZu__RSUAHZmqmymkg
 owner= 439102535693762582 
-prefix= 1
-game= 1play
+prefix= be
+game= beplay
 stayinchannel=true 
 songinstatus=false 
