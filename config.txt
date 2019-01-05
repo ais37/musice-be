@@ -1,0 +1,6 @@
+﻿token= توكن البوت
+owner= ايدي حسابك 
+prefix= برفكس البوت
+game= 
+stayinchannel=true 
+songinstatus=false 
